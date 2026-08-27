@@ -8,22 +8,6 @@
 
 `法律科技` · `AI 驱动工具` · `用代码解决律师执业中的真实痛点`
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=lawyerCH&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/lawyerCH)
-[![关注者](https://img.shields.io/github/followers/lawyerCH?color=00D9FF&style=flat-square&label=Followers)](https://github.com/lawyerCH?tab=followers)
-[![星标](https://img.shields.io/github/stars/lawyerCH?color=00D9FF&style=flat-square&label=Stars)](https://github.com/lawyerCH?tab=stars)
-
-</div>
-
----
-
-
-**联系方式**
-
-[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「陈恒律师日志」 · GitHub: [@lawyerCH](https://github.com/lawyerCH)
-
-<br/>
 
 
 </div>
