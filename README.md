@@ -11,49 +11,13 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lawyerCH&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/lawyerCH)
-[![Followers](https://img.shields.io/github/followers/lawyerCH?color=00D9FF&style=flat-square&label=Followers)](https://github.com/lawyerCH?tab=followers)
-[![Stars](https://img.shields.io/github/stars/lawyerCH?color=00D9FF&style=flat-square&label=Stars)](https://github.com/lawyerCH?tab=stars)
+[![关注者](https://img.shields.io/github/followers/lawyerCH?color=00D9FF&style=flat-square&label=Followers)](https://github.com/lawyerCH?tab=followers)
+[![星标](https://img.shields.io/github/stars/lawyerCH?color=00D9FF&style=flat-square&label=Stars)](https://github.com/lawyerCH?tab=stars)
 
 </div>
 
 ---
 
-## 法律科技产品
-
-| 产品 | 一句话介绍 | 技术栈 |
-|:---|:---|:---|
-| [**陈恒律师AI工具箱**](https://github.com/lawyerCH/cc-wps-lawtools) | WPS 加载项 · AI 合同审查 / 风险扫描 / 信息脱敏 / 30+ 文书模板 | Vue 3 · 腾讯元器 AI |
-| [**飞书法律工具箱**](https://github.com/lawyerCH/feishu-lawtools) | 飞书法律条文导入 / 划重点 / AI 批注解读 · 兼容 pi / Claude Code | Python · lark-cli |
-| [**金助理**](https://github.com/lawyerCH/cc-jinzhuli) | 律师常用工具浏览器扩展 | WXT · Vue 3 |
-| [**LegalAI**](https://github.com/lawyerCH/cc-legal-ai-mvp) | 法律知识库 MVP · 法条检索 / 文书模板 / AI 咨询 | TypeScript · SQLite |
-| [**岭南所官网**](https://github.com/lawyerCH/ln-sites) | 岭南律师事务所官网静态站 | Astro |
-
----
-
-## 日志
-
-[写作规范](./SPEC.md) · [全部文章](./journal/)
-
-| [思考](./journal/thinking/) | [实践](./journal/dev/) |
-|:---|:---|
-| [2026-06-25-ai-era-what-lawyers-sell](./journal/thinking/2026-06-25-ai-era-what-lawyers-sell.md) | [hearing-journey](./journal/dev/self-growing-agent/hearing-journey.md) |
-|  | [infrastructure-memory](./journal/dev/self-growing-agent/infrastructure-memory.md) |
-|  | [llm-migration](./journal/dev/self-growing-agent/llm-migration.md) |
-|  | [pitfalls-and-improvements](./journal/dev/self-growing-agent/pitfalls-and-improvements.md) |
-|  | [project-kickoff-ts-rewrite](./journal/dev/self-growing-agent/project-kickoff-ts-rewrite.md) |
-
-
----
-
-<div align="center">
-
-**技术栈**
-
-`TypeScript` · `Python` · `Vue` · `Rust` · `Tauri` · `React` · `Node.js`
-
-`SiliconFlow` · `DeepSeek` · `Claude` · `OpenAI` · `腾讯元器`
-
-<br/>
 
 **联系方式**
 
