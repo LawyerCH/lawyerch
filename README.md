@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BluerAngala&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/BluerAngala)
-[![Followers](https://img.shields.io/github/followers/BluerAngala?color=00D9FF&style=flat-square&label=Followers)](https://github.com/BluerAngala?tab=followers)
-[![Stars](https://img.shields.io/github/stars/BluerAngala?color=00D9FF&style=flat-square&label=Stars)](https://github.com/BluerAngala?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=lawyerCH&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/lawyerCH)
+[![Followers](https://img.shields.io/github/followers/lawyerCH?color=00D9FF&style=flat-square&label=Followers)](https://github.com/lawyerCH?tab=followers)
+[![Stars](https://img.shields.io/github/stars/lawyerCH?color=00D9FF&style=flat-square&label=Stars)](https://github.com/lawyerCH?tab=stars)
 
 </div>
 
@@ -22,11 +22,11 @@
 
 | 产品 | 一句话介绍 | 技术栈 |
 |:---|:---|:---|
-| [**陈恒律师AI工具箱**](https://github.com/BluerAngala/cc-wps-lawtools) | WPS 加载项 · AI 合同审查 / 风险扫描 / 信息脱敏 / 30+ 文书模板 | Vue 3 · 腾讯元器 AI |
-| [**飞书法律工具箱**](https://github.com/BluerAngala/feishu-lawtools) | 飞书法律条文导入 / 划重点 / AI 批注解读 · 兼容 pi / Claude Code | Python · lark-cli |
-| [**金助理**](https://github.com/BluerAngala/cc-jinzhuli) | 律师常用工具浏览器扩展 | WXT · Vue 3 |
-| [**LegalAI**](https://github.com/BluerAngala/cc-legal-ai-mvp) | 法律知识库 MVP · 法条检索 / 文书模板 / AI 咨询 | TypeScript · SQLite |
-| [**岭南所官网**](https://github.com/BluerAngala/ln-sites) | 岭南律师事务所官网静态站 | Astro |
+| [**陈恒律师AI工具箱**](https://github.com/lawyerCH/cc-wps-lawtools) | WPS 加载项 · AI 合同审查 / 风险扫描 / 信息脱敏 / 30+ 文书模板 | Vue 3 · 腾讯元器 AI |
+| [**飞书法律工具箱**](https://github.com/lawyerCH/feishu-lawtools) | 飞书法律条文导入 / 划重点 / AI 批注解读 · 兼容 pi / Claude Code | Python · lark-cli |
+| [**金助理**](https://github.com/lawyerCH/cc-jinzhuli) | 律师常用工具浏览器扩展 | WXT · Vue 3 |
+| [**LegalAI**](https://github.com/lawyerCH/cc-legal-ai-mvp) | 法律知识库 MVP · 法条检索 / 文书模板 / AI 咨询 | TypeScript · SQLite |
+| [**岭南所官网**](https://github.com/lawyerCH/ln-sites) | 岭南律师事务所官网静态站 | Astro |
 
 ---
 
@@ -57,7 +57,7 @@
 
 **联系方式**
 
-[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「陈恒律师日志」 · GitHub: [@BluerAngala](https://github.com/BluerAngala)
+[飞书主页](https://lawyerch.feishu.cn/wiki/SzKVwp7PMizeQ4kT2RpcGUppnle) · 公众号「陈恒律师日志」 · GitHub: [@lawyerCH](https://github.com/lawyerCH)
 
 <br/>
 

@@ -216,4 +216,4 @@ v1 的听觉虽然粗糙（ffmpeg 录 10 秒、云端转文字、写文件），
 | 5 | **踩坑与改进——从听觉 v1 到语音对话的「边修边长」** | 本文：7 个被跳过的 commits 的故事 |
 
 *系列文章：自生长 Agent 开发日志*
-*项目地址：[self-growing-agent](https://github.com/BluerAngala/self-growing-agent)*
+*项目地址：[self-growing-agent](https://github.com/lawyerCH/self-growing-agent)*

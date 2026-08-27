@@ -71,7 +71,7 @@ summary: 54个仓库0星，不是能力问题，是还没决定把力气集中�
 3. cc-jinzhuli（金助理浏览器扩展）
 4. cc-legal-ai-mvp（法律AI知识库）
 5. ln-sites（岭南所官网）
-6. BluerAngala（个人主页）
+6. lawyerCH（个人主页）
 
 其余48个全部转Private。Private不是删除——我随时能看、能用、能复活。它只是从展厅搬回仓库。
 
