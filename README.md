@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://github.com/LawyerCH.png" width="96" height="96" alt="陈恒律师" />
-  <h1>陈恒律师</h1>
-  <p><strong>执业律师 · AI 独立开发者</strong></p>
-  <p>用代码把法律工作里重复的部分交给机器，把判断留给人。</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=你好呀，我是陈恒律师;Hi%2C+I'm+Lawyer+Chen+Heng;Legal+Tech+%C3%97+AI+Developer)
+
+<br/>
+
+**执业律师** · **AI 独立开发者**
+
+`法律科技` · `AI 工具` · `用代码解决法律执业中的真实问题`
+
 </div>
 
 ---
