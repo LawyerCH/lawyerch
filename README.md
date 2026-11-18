@@ -6,15 +6,13 @@
 
 **执业律师** · **AI 独立开发者**
 
-`法律科技` · `AI 驱动工具` · `用代码解决律师执业中的真实痛点`
+`法律科技` · `AI 工具` · `用代码解决法律执业中的真实问题`
 
 </div>
 
 ---
 
-## 组织 · Organizations
-
-项目按用途分属两个组织：**法律业务相关** → [lawyerch-law](https://github.com/lawyerch-law)；**开发工具相关** → [lawyerch-dev](https://github.com/lawyerch-dev)。
+## 两条线
 
 <table>
   <tr>
@@ -22,31 +20,48 @@
 
 ### [lawyerch-law](https://github.com/lawyerch-law) · 法律科技
 
-律师执业场景的开源项目：品牌网站、文书与合同工具、法律 AI 技能。
+面向法律人的知识资产与工具。
 
-- [`lawyerch.cn`](https://github.com/lawyerch-law/lawyerch.cn) — 个人品牌网站（Astro 双语）
-- [`claude-for-legal-ZH`](https://github.com/lawyerch-law/claude-for-legal-ZH) — 中文法律 AI 技能集
-- [`contract-workflow`](https://github.com/lawyerch-law/contract-workflow) — 合同全流程工具
-- [`case-ledger-intake`](https://github.com/lawyerch-law/case-ledger-intake) — 律师案件台账录入
-- [`ln-sites`](https://github.com/lawyerch-law/ln-sites) — 岭南所官网静态站
-- [`law-doc-generator`](https://github.com/lawyerch-law/law-doc-generator) — 法律文书生成
-- [`cc-legal-skills`](https://github.com/lawyerch-law/cc-legal-skills) — 法律技能集
+**知识 / 技能**
+
+- [`cc-legal-skills`](https://github.com/lawyerch-law/cc-legal-skills) — 法律 AI Skills 集合
+- [`claude-for-legal-ZH`](https://github.com/lawyerch-law/claude-for-legal-ZH) — 中国法版 Claude for Legal
+
+**工具**
+
+- [`feishu-lawtools`](https://github.com/lawyerch-law/feishu-lawtools) — 飞书法律工具箱
+- [`obsidian-cc-agent`](https://github.com/lawyerch-law/obsidian-cc-agent) — Obsidian 法律 AI 插件
 
     </td>
     <td width="50%" valign="top">
 
-### [lawyerch-dev](https://github.com/lawyerch-dev) · 开发工具
+### [lawyerch-dev](https://github.com/lawyerch-dev) · AI 开发
 
-AI 应用与跨端开发资产：框架模板、工具链、浏览器扩展。
+面向开发者的 AI 工具与工程模板。
 
-- [`cc-HandyAgent`](https://github.com/lawyerch-dev/cc-HandyAgent) — AI Agent 工具
-- [`uni-app-devkit`](https://github.com/lawyerch-dev/uni-app-devkit) — uni-app 开发套件
-- [`cc-tauri-pdf-ai`](https://github.com/lawyerch-dev/cc-tauri-pdf-ai) — Tauri PDF × AI 桌面工具
-- [`tauri-app-template`](https://github.com/lawyerch-dev/tauri-app-template) — Tauri 应用模板
-- [`explain-chrome-ext`](https://github.com/lawyerch-dev/explain-chrome-ext) — Chrome 扩展
-- [`cc-wpsjs-packer`](https://github.com/lawyerch-dev/cc-wpsjs-packer) — WPS JS 打包工具
-- [`obsidian-aiwork`](https://github.com/lawyerch-dev/obsidian-aiwork) — Obsidian × AI 工作流
+**产品**
+
+- [`doc-anonymizer`](https://github.com/lawyerch-dev/doc-anonymizer) — 本地文档脱敏（中文优先 / 全离线）
+- [`electron-shadcn`](https://github.com/lawyerch-dev/electron-shadcn) — Electron + shadcn 桌面模板
+- [`ch-ocr-mcp-pro`](https://github.com/lawyerch-dev/ch-ocr-mcp-pro) — 多引擎 OCR MCP
+- [`cc-md-editor`](https://github.com/lawyerch-dev/cc-md-editor) — Markdown 编辑器
+- [`doc-flip-video`](https://github.com/lawyerch-dev/doc-flip-video) — 文档翻页视频生成
+- [`cc-ai-tools`](https://github.com/lawyerch-dev/cc-ai-tools) — 可扩展启动器
 
     </td>
   </tr>
 </table>
+
+## 工程底色
+
+- [`aiglobal`](https://github.com/LawyerCH/aiglobal) — mise 基线 + rulesync 一处写多处分发的 AI 开发环境纪律
+- [`web-stack`](https://github.com/LawyerCH/web-stack) — 想法 → 可访问链接的发布脚手架（私有开发中）
+- [`tauri-template-react`](https://github.com/LawyerCH/tauri-template-react) — Tauri 2 + React 19 桌面模板
+
+## 我在做什么
+
+- 把律师办案流程（立案、取证、举证、庭审、执行）拆成可执行的 AI 工作流
+- 做真正能落地的法律工具：WPS 插件、文书生成、OCR、脱敏
+- 把重复劳动交给代码，把判断留给人
+
+<sub>法律问题请走正式委托；这里主要聊工具与工程。</sub>
