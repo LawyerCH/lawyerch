@@ -1,18 +1,21 @@
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=你好呀，我是陈恒律师;Hi%2C+I'm+Lawyer+Chen+Heng;Legal+Tech+%C3%97+AI+Developer)
-
-<br/>
-
-**执业律师** · **AI 独立开发者**
-
-`法律科技` · `AI 工具` · `用代码解决法律执业中的真实问题`
-
+  <img src="https://github.com/LawyerCH.png" width="96" height="96" alt="陈恒律师" />
+  <h1>陈恒律师</h1>
+  <p><strong>执业律师 · AI 独立开发者</strong></p>
+  <p>用代码把法律工作里重复的部分交给机器，把判断留给人。</p>
 </div>
 
 ---
 
-## 两条线
+## 两个身份，一条主线
+
+**律师**：做诉讼与非诉，关注法律 AI 在真实业务里的落地。
+
+**开发者**：写工具、做技能、折腾 agent，把想法做成能跑的东西。
+
+法律工作提出问题，代码给出解法。
+
+## 两条产品线
 
 <table>
   <tr>
@@ -22,8 +25,9 @@
 
 面向法律人的知识资产与工具。
 
-- [`skills-for-legal`](https://github.com/law-products/skills-for-legal) — 中国法实务 AI 技能与插件集（13 个业务领域 + 能力层）
-- [`gjj-ocr-releases`](https://github.com/law-products/gjj-ocr-releases) — 公积金 OCR 发布资产
+- [`skills-for-legal`](https://github.com/law-products/skills-for-legal) — 中国法实务 AI 技能与插件集
+- [`doc-anonymizer`](https://github.com/law-products/doc-anonymizer) — 本地文档脱敏
+- [`doc-flip-video`](https://github.com/law-products/doc-flip-video) — 文档翻页视频
 
     </td>
     <td width="50%" valign="top">
@@ -32,27 +36,29 @@
 
 面向开发者的 AI 工具与工程模板。
 
-- [`doc-anonymizer`](https://github.com/lawyerch-dev/doc-anonymizer) — 本地文档脱敏
-- [`electron-shadcn`](https://github.com/lawyerch-dev/electron-shadcn) — Electron + shadcn 桌面模板
-- [`ch-ocr-mcp-pro`](https://github.com/lawyerch-dev/ch-ocr-mcp-pro) — 多引擎 OCR MCP
+- [`dev-resources`](https://github.com/lawyerch-dev/dev-resources) — 动效 / 音效 / 图标 / UI 索引
+- [`cc-ai-tools`](https://github.com/lawyerch-dev/cc-ai-tools) — 可扩展启动器与插件平台
 - [`cc-md-editor`](https://github.com/lawyerch-dev/cc-md-editor) — Markdown 编辑器
-- [`doc-flip-video`](https://github.com/lawyerch-dev/doc-flip-video) — 文档翻页视频
-- [`cc-ai-tools`](https://github.com/lawyerch-dev/cc-ai-tools) — 可扩展启动器
 
     </td>
   </tr>
 </table>
 
-## 工程底色
+## 我在关注什么
 
-- [`aiglobal`](https://github.com/LawyerCH/aiglobal) — mise + rulesync 环境纪律
-- [`web-stack`](https://github.com/LawyerCH/web-stack) — 想法 → 链接的发布脚手架
-- [`tauri-template-react`](https://github.com/LawyerCH/tauri-template-react) — Tauri 2 + React 19 模板
+- 法律工作流里哪些环节真的能被 AI 替代，哪些不能
+- 律师如何在不泄露客户信息的前提下使用大模型
+- 法律知识如何从「个人经验」变成「可复用的资产」
 
-## 我在做什么
+## 现在
 
-- 把律师办案流程拆成可执行的 AI 工作流
-- 做真正能落地的法律工具：文书、OCR、脱敏、检索
-- 把重复劳动交给代码，把判断留给人
+- 把办案流程拆成可执行的 AI 技能
+- 做法律场景的文档工具：脱敏、OCR、文书生成
+- 记录过程和踩坑，尽量 build in public
+
+## 找到我
+
+- 个人站：[lawyerch.cn](https://lawyerch.cn)
+- 组织：[@law-products](https://github.com/law-products) · [@lawyerch-dev](https://github.com/lawyerch-dev)
 
 <sub>法律问题请走正式委托；这里主要聊工具与工程。</sub>
